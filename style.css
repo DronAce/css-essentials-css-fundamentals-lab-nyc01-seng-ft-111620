@@ -8,8 +8,8 @@ header {
   text-align: center;
 }
 
-img {
-  align-self: center;
+#featured-property {
+  text-align: center;
 }
 
 a {
@@ -19,5 +19,5 @@ a {
 }
 
 figcaption {
-
+  
 }

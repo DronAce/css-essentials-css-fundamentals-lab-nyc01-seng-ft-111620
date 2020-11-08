@@ -33,7 +33,7 @@ figcaption {
 #details div{
   background-color: red;
   display: block;
-  width: auto;
+  width: 25%;
   float: left;
   margin-left: auto;
   margin-right: auto;
